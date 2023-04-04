@@ -1,1 +1,1 @@
-Tutaj dodajemy kolejne zmiany aby później testować w git
+Tutaj odejmujemy kolejne zmiany aby teraz testować w git
